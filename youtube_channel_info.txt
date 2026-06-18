@@ -5,9 +5,6 @@
 24 News Malayalam|Malayalam|https://www.twentyfournews.com/wp-content/themes/nextline_v3/images/logo-new.png|
 https://www.youtube.com/channel/UCup3etEdjyF1L3sRbU-rKLw/live
 
-Kairali News|Malayalam|https://static.wikia.nocookie.net/logopedia/images/d/d4/Kairali_News.jpeg | 
-https://www.youtube.com/channel/UCkCWitaToNG1_lR-Si1oMrg/live
-
 Asianet News|Malayalam|https://upload.wikimedia.org/wikipedia/commons/c/c4/Asianet_News_Logo.png |
 https://www.youtube.com/channel/UCf8w5m0YsRa8MHQ5bwSGmbw/live
 
@@ -17,7 +14,7 @@ https://www.youtube.com/user/TVMathrubhumi/live
 Media One News|Malayalam|https://upload.wikimedia.org/wikipedia/commons/6/62/Media_One_Logo.png|
 https://www.youtube.com/user/MediaoneTVLive/live
 
-Manorama News|Malayalam|https://play-lh.googleuserconthttps://upload.wikimedia.org/wikipedia/en/thumb/3/37/Sun_News_logo.png/220px-Sun_News_logo.png|
+Manorama News|Malayalam|https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Manorama_News_logo.svg/512px-Manorama_News_logo.svg.png|
 https://www.youtube.com/channel/UCP0uG-mcMImgKnJz-VjJZmQ/live
 
 News 18 Kerala|Malayalam|https://upload.wikimedia.org/wikipedia/commons/0/05/News18_Kerala.png|

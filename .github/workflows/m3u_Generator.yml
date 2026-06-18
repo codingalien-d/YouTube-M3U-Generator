@@ -13,23 +13,26 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+      - uses: actions/setup-node@v4
         with:
           node-version: '24'
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run generator
+        run: |
+          chmod +x autorun.sh
+          ./autorun.sh
 
       - name: Configure Git
         run: |
           git config user.email "action@github.com"
           git config user.name "GitHub Action"
-
-      - name: Run script
-        run: |
-          chmod +x autorun.sh
-          ./autorun.sh
 
       - name: Commit and Push
         run: |

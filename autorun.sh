@@ -1,13 +1,19 @@
 #!/bin/bash
 
-echo $(dirname $0)
+set -e
 
-python3 -m pip install requests
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 
-cd $(dirname $0)/scripts/
+python3 -m pip install -q requests yt-dlp
+
+cd "$SCRIPT_DIR/scripts"
 
 python3 youtube_m3ugrabber.py > ../youtube.m3u
 
-cat ../youtube.m3u ../Original.m3u >> ../out.m3u
+cd ..
 
-echo m3u grabbed
+touch Original.m3u
+
+cat youtube.m3u Original.m3u > out.m3u
+
+echo "m3u grabbed"
