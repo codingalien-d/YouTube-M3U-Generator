@@ -1,66 +1,54 @@
 #EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
 
-#########################################################################
-#      ____            _           _   __  __                           #
-#     |  _ \ _ __ ___ (_) ___  ___| |_|  \/  | ___   ___  ___  ___      #
-#     | |_) | '__/ _ \| |/ _ \/ __| __| |\/| |/ _ \ / _ \/ __|/ _ \     #
-#     |  __/| | | (_) | |  __/ (__| |_| |  | | (_) | (_) \__ \  __/     #
-#     |_|   |_|  \___// |\___|\___|\__|_|  |_|\___/ \___/|___/\___|     #
-#                   |__/                                                #
-#                                  >> https://github.com/benmoose39     #
-#########################################################################
-
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://www.twentyfournews.com/wp-content/themes/nextline_v3/images/logo-new.png" tvg-id="", 24 News Malayalam
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1781793025/ei/oawzarT4JJLS3LUPzrS20Qs/ip/2406%3A7400%3A106%3A6938%3A4a0%3Af7b6%3A4248%3Af541/id/1wECsnGZcfc.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51828967/txs/51828967%2C51828968/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/ARmQxEUib98PegHlg3LGtsQ1ymKF-us3DFKsHd47mHXJfYeJrp4OdqtXNV_LnR8ZKOwnNQ7QfKP98dil/spc/SQ-umpbcdwF_DEbBCId5Omn9yienaBH5njFrico1e10yzxU40kNUjMU7FWkYN7jM7ElYVg/vprv/1/go/1/ns/MOVcIMIYRs3wxPcNpRAwJ9UV/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565682%2C51987687/dover/11/n/lDO-qV19ElsE71wcG/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgA4e9OIo7DZKghU1aGyjQoI9zuIGebYvTwX65cu4ZL3ICIG6uGqOgs6V-uQ30S1M1R3EaomS4_eNOzxmUhHIwVDso/file/index.m3u8
 
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Kairali_News.jpeg/revision/latest/scale-to-width-down/300?cb=20191221124115" tvg-id="", Kairali News
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Asianet_News_Logo.png" tvg-id="", Asianet News
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1781793030/ei/pqwzauGjAtyJ3LUP8LqxoAY/ip/2406%3A7400%3A106%3A6938%3A4a0%3Af7b6%3A4248%3Af541/id/s0LLVQeMmtU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/ARmQxEU9WXqFLmd3aL_oob01nCA1duZlBvV30chEvVmJw3BoFBPxQsNk4i5q9xZA0FTDvUSIyi8Vgeep/spc/SQ-umqNah94uY71kO-nO5K3bGFImNii_Bo1kHW4nOh9kGRN7UnakAoHUF7o20pyKc0MSbg/vprv/1/go/1/ns/Phse78ivmoBqnuuNoImnJrIV/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565682%2C51946837%2C51987687%2C51992867/dover/11/n/77NTzu_fuhDWqiIcA/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgAsqUnuQsrHw2AhdGO8fOdFaZtnTgIYamj0q9bGgj9DsCIB5YF4j8H61vheA9bNaYGfee_w_rekndDFPsU18BXehm/file/index.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Mathrubhumi_news.svg/1200px-Mathrubhumi_news.svg.png" tvg-id="", Mathrubhumi News
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1781793031/ei/p6wzarfiBoO13LUPlKzT8As/ip/2406%3A7400%3A106%3A6938%3A4a0%3Af7b6%3A4248%3Af541/id/0wGkPLjeOOA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/ARmQxEV0qK68D7CuFwXcPXoUvMWJBU56fC8DO7tVYmkUL7fVkNPQY9Zt1wgu9Sai8c3ER3M6IZxLZzGN/spc/SQ-umhsH-mWK9K5rvi1aqLQQBuuDsDyAxIbhxtL8VWpFDD3lul7O42fY5kC3V-KpqmlcKg/vprv/1/go/1/ns/qlsnD0M1F1Zm5DEDvySmqUMV/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565681%2C51987687/dover/11/n/pMNwTUA1Cqyf5JvPV/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIgayKGGtQTs8pviyPewKVNsqwkP_s3U6gDge6mWZMgopoCIQD6zPmKM-WZ4FYX_3Z08IWkG4IpoW-1WxNHRtdltx6NYw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Media_One_Logo.png" tvg-id="", Media One News
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1781793032/ei/qKwzar-sD_TP1_oP7Or6kAY/ip/2406%3A7400%3A106%3A6938%3A4a0%3Af7b6%3A4248%3Af541/id/-8d8-c0yvyU.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51828968/txs/51828967%2C51828968/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/ARmQxEVw-ssIffZe2Ps1kmmRfvFlwdrukqP1Bx4_ApzDMX56NaCUmh6MmKsUUO6d5OMA5oLQpIyEKvL6/spc/SQ-umgIMY4jzWNpwzlhVP8nwYM6LAnRp1ItI81kaDqw7sJZ7NI2F8tivW3rlIO3a-ixfBA/vprv/1/go/1/ns/Np4x7Z3Yp1sTrYIFHnKv86YV/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565681%2C51946838%2C51987687/dover/11/n/CNBde7C2KaBJXshM9/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRgIhAMeHeH4WyNTnLE6fjUQUadTWDGOSJjGNVYrm0OM1CQxAAiEApp6l9AnYZ0r0gi69kEPmlQtrIyNuXC7nrEx98UHcIkA%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://play-lh.googleusercontent.com/k0A88RrzsPqX1D75am5_bOJ3M2Y0R0fXi7gu4BfgmS2GkuUNvFnSLMmCaLBK0BhQ9Es" tvg-id="", Manorama News
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1781793033/ei/qawzasmHGNWQssUPsKvziAM/ip/2406%3A7400%3A106%3A6938%3A4a0%3Af7b6%3A4248%3Af541/id/tgBTspqA5nY.3~45728542/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51828967/txs/51828967%2C51828968/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/ARmQxEWrbGvh6OIDO76vspq9hWYeOknLUBsbSCbGDmjIErgn8IC9HjyeOmZFz8wak8h4rDcBOoVtF2JZ/spc/SQ-umkFb3r-LxMiMUbp834i0W3F0JD34lyhcWCebXCUYQ4Aw4iCEW0a4jvCx1jPbidkEWQ/vprv/1/go/1/ns/wK37CG9TkiEffZB2pi9eDcsW/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565681%2C51987687/dover/11/n/gIJVxiGxY9HTviohq/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgbzni6zaIOTfHQPPx9rrF_zdD4ZL_nM9BpL2AaGv_Xd0CIAaiW84c5J6_8rLXhiZYzJibtu1fF8iJQI9p_zQsSE-U/file/index.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/News18_Kerala.png" tvg-id="", News 18 Kerala
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1781793034/ei/qqwzaqupMtbyqfkP9puPuAo/ip/2406%3A7400%3A106%3A6938%3A4a0%3Af7b6%3A4248%3Af541/id/m3LYTmlWMJY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/ARmQxEVUiHWHy97yMTtf5IJZxnglVQdK_5IL41Jqd2WRUtF-AJluF6itmlSiNWOk8Bnj5QkCSqmm2kkV/spc/SQ-umn9NaUNWUDHbGPNkY1DUS91DX4bmaRssA96P58ngFgMO0OulYcB4xorpsGssFUESwQ/vprv/1/go/1/ns/Lafp3q-h6vubwCvPmryKWpMW/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565681%2C51987687/dover/11/n/DZiFtuujKRwj_jxgF/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgB0B8eUFQuv_f6kJlJJWlSkEGfgNoonD0t2QIfQICaFICIC9RrrNIR-tbmPYNMnpsKrTf0q_QYcw4l5s9SJ3U5b3Q/file/index.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/83/Mangalam_logo.png/200px-Mangalam_logo.png" tvg-id="", Mangalam TV
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="http://akamaividz.zee5.com/resources/0-9-203/list/386x386/09203polimernews.png" tvg-id="636", Polimer News
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1781793036/ei/rKwzaveEK-ex77APjvWCwAo/ip/2406%3A7400%3A106%3A6938%3A4a0%3Af7b6%3A4248%3Af541/id/fbCC56pe_W8.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/ARmQxEV9ZyVCVupq1ldx8PNIbQDpy7ex0MzmpsWKEWx_BX6Swotzz5sezU1e5MqSQPtygNtC7kHO4Z32/spc/SQ-umo0bNH8DfIy2BlaOjbVaxcnaV-UM6_IPZ-mC7QItbALxQsVrhlVXV-fN6c18hj5LCg/vprv/1/go/1/ns/IaklqF9FMbL7quvD4UDfYpoW/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565682%2C51987687/dover/11/n/pAMQa1bBAsMAs_9QK/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIhAOPll5hGeIvoB-radC25gskZqhPOvNTRTied2FaniUUKAiAyLltyDY8sJKiIF4e5xlDYpMpwDV3SJFzuW1n-ZoHgHw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="http://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_797/img_logo_news_7_tamil-2.png" tvg-id="673", News7 Tamil
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1781793037/ei/rawzatbPKsK59fwPhvbs4Qo/ip/2406%3A7400%3A106%3A6938%3A4a0%3Af7b6%3A4248%3Af541/id/H7cagELtg00.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/ARmQxEXKZvie1Bb0-TxX8ChIFN5ZnrHaDyEsWsboWd7FztALVDNjAQQV8gG4BbHJ2n-VSqT1QcZqZStK/spc/SQ-ummR1qXG3aXVXh9XEhA8fvcoN3p-q7tho7X8qYgW0VoYwItV3oYfnnQz8tPBSR3IWDQ/vprv/1/go/1/ns/gKVhyrT5g2Lyzgec0O3ulH0W/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565681%2C51987687/dover/11/n/H1eThLpqGb6Md_ReB/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgGq04iwFlXJePan_yi_G0xDJSJCjh9Y6fJEknZVqhs9MCIEn1Jhs2MKG9H-9jNYn2hGwdvxfPHDinH9-uXaqPTGVw/file/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="http://www.thanthitv.com/Images/TTV-800x800.png" tvg-id="830", Thanthi TV
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1781793038/ei/rqwzarPeK6CV4t4PlsDS-QY/ip/2406%3A7400%3A106%3A6938%3A4a0%3Af7b6%3A4248%3Af541/id/BRJPeY0DNps.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/ARmQxEUAA6yN7VNJNswZV7qwWQi7LOsPm0Er4JIKEsJ4xazSs8N0fO5G1PZYyJiZfsJaY_FuAYSubpBs/spc/SQ-ump5UsZXm1lA_notN0m6Kb5W0k9z2XfluMoVS1VH4H38AET6HkRXiTmAjGjVtaKpaAg/vprv/1/go/1/ns/I7MLL4RX6o5LYVdWf2FsxbQV/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565681%2C51987687/dover/11/n/GJwrJpa8xKdxas3/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgKls-bzyuINmSo706ou7GLPkPazdWXI7e26B2cExYKnwCIEkLqJ1HPjN6NWI537UznNORCstEp0ItziF2sDx1EyCF/file/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="http://7starcloud.in/NB.png" tvg-id="ts58", New18 TamilNadu
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1781793039/ei/r6wzapnYJ4SQssUPov2CaA/ip/2406%3A7400%3A106%3A6938%3A4a0%3Af7b6%3A4248%3Af541/id/prmBU9g65TE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/ARmQxEUoxMpldZED7bvaymaFXupaDnY7gSSutpHpnzuDdEfXx5IksHAX_0pdqqUrRaTabbMBkhnCxWjn/spc/SQ-umreYH9mC36xTfIVQz178b9x7lMRLtmu8dxDqCd-ldQ08gDFv33s4l2fPTg_rGrni6Q/vprv/1/go/1/ns/eFDiB6JOYQl3HGSwHmMbw5QW/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565681%2C51909099%2C51987687/dover/11/n/rDK72nwDogDFK10qG/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIgSd24y4xnDuDFrI2ZcJcPCHWPIS36IJUpTvvgElubYtoCIQCS31vKXRiDMXXYvJYskaP2VONQS4h6vTRx0vBD12xu0A%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="http://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_793/LOGO/5Jz56JGv.png" tvg-id="677", Puthiya Thalaimurai
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1781793040/ei/sKwzatPJJfTa3LUP6fvj-AY/ip/2406%3A7400%3A106%3A6938%3A4a0%3Af7b6%3A4248%3Af541/id/t6AmfTX3hCQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/ARmQxEWLPKFujA1gHsbqHWlNBAOdZnG9YcdbEElED7zom4malnRUmh5UQiSZEUraYDTL19IgZN8PgD2t/spc/SQ-umsu88his3qfwGB6C5LdC0BtIKZr9Nz0kyPCabgNds4gPoLlc9e_s6K9L43hpzarNiA/vprv/1/go/1/ns/97ZnAVqNb6rAkObhYcnsXnUV/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565682%2C51987687/dover/11/n/DZtne7lL4l67ud2aC/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIgLjsf1NkZx3Umg5pwFurE1FUM0DVYONXdEV8kL2znqpQCIQDo6tr5CKzTl8ZQKYh7L35e7rYrgeobjrUfjmbhw53eVw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Urdu" tvg-logo="" tvg-id="", GNN
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png" tvg-id="", ABC News
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1781793043/ei/s6wzaqm5LuLOz7sPyfzYiQY/ip/2406%3A7400%3A106%3A6938%3A4a0%3Af7b6%3A4248%3Af541/id/iipR5yUp36o.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51828968/txs/51828967%2C51828968/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/bui/ARmQxEVGNr1UFov3IFNi2xei6Dc_7z8jbfHGcsnYPo3pGDv5lrI7jKg-MwhC1oTv8KXA6rduI-xaEq3F/spc/SQ-umhDI88wyR40eLT6tfyiYw8OpRVl1TI2I2YRKul6XKaaNRu3WpyEPtHTfcKFAZhXnoA/vprv/1/go/1/ns/PVqLcapKFxujMvTUZG5j5s8V/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565682%2C51987687/dover/11/n/oSzcBR5LkE8lQhJf4/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIgUlKABl-rElnWhm2BLDPSoF5vrpFYi2MsKaIRogpjAXkCIQChlec4tVH2t-EUrUtXDnwoEWXJHJdYRULdoGiF7YKuXA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniz5-dorFPbRs3b2CYaJSV2VOVxq53EqcwdWOF8Gg=s900-c-k-c0x00ffffff-no-rj" tvg-id="", News 12 New York
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1781793044/ei/tKwzatLvJdmA9fwPpfG7oQo/ip/2406%3A7400%3A106%3A6938%3A4a0%3Af7b6%3A4248%3Af541/id/JEtvLd4B-AY.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/ARmQxEWkfyNPYR4o0NvkSQDLouhIc_PYHGzNVbJ4MZVaHO172GIRwbGPq9eBOIZQz6cybLLdQiluus6O/spc/SQ-umsDgmJqBz3EgyndwXyTWCPoxr2-xgqqLAfLPFBPw1N6DpjUKKrXvmaJeM_v2tG9xpQ/vprv/1/go/1/ns/yZSz8HSOthyq6-loQPySLl4W/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565681%2C51909099%2C51987687/dover/11/n/-_GAZf7zk8S8pMGte/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIhAKL_j3uFzWPDAiTbVNqUjMKB87UZ3fnrpQuB2fZDtn-kAiAM6_-qTW7jKxUictly-tMunfPZYZIAl85jwU3IHnCxhw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Albania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews._2016_logo.png" tvg-id="", Euronews Albania
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1781793045/ei/tawzaoSBMoTI9fwPrruY2Ac/ip/2406%3A7400%3A106%3A6938%3A4a0%3Af7b6%3A4248%3Af541/id/vtyNadYNzsM.1~45786092/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/ARmQxEXNFEI8hq4VvSlLmuoRzupRxao805szdG27f8Epapc4ej7sec2hVT8yH5TpSwlxALk0h7rjoxON/spc/SQ-umouFgzNOLe6p_lHR--ngRcg31vMUERjO3hL6LISSZxYvAu15UE_1tR_5nUENua0zQA/vprv/1/go/1/ns/N-rovOXvoGxUeXWsAKCve34W/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565682%2C51987687%2C51992868/dover/11/n/yMIO1U7XYwQdA4T_b/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRgIhAIkhCj-HSHnr2O7FODV1F0njzMfra31SlB6joOSBj82eAiEA3pmfmSFa4TObffMCYrQoAHYJOkZrlsbw2Wy5ywh4sRQ%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="" tvg-id="", Insomniac
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -105,25 +93,25 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Kannada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Suvarna_News_New_Logo.jpg" tvg-id="", Asianet Suvarna News
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1781793066/ei/yqwzatWSMonS3LUPgpnsgQo/ip/2406%3A7400%3A106%3A6938%3A4a0%3Af7b6%3A4248%3Af541/id/f6-rfI4E1WM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/ARmQxEX1y-4omwY31aQe9hINjULVF5wPYwbIU-sKjYLCzLx3cJ1tDK3eIHRT08g7xfFkCDk121hdb_nX/spc/SQ-umgT-0pvvv4vwYEXFaWbL9JWbkisnawcvgcToirfpHPJ2iO6-sm73EV45Adfs7BToGg/vprv/1/go/1/ns/nX80m1gB27qpYQli6FTUtwwV/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565682%2C51987687/dover/11/n/53V3tw-aWnedCr3aK/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRgIhAOUkLj3kuesHWIMMypWwLx-weGvgsmLPN6kSWwq4fKB3AiEA90PiCDkYFqL8_4Dvs6dQawEvUPgtDSMr_E6PbUQQXFE%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Kannada" tvg-logo="http://www.tv5kannada.com/images/logo.png" tvg-id="", TV5 Kannada
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1781793068/ei/y6wzapziPKbYssUP9orX0Ak/ip/2406%3A7400%3A106%3A6938%3A4a0%3Af7b6%3A4248%3Af541/id/nbxh2LaNWPs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/ARmQxEWigvJ3WIwPOymCkpIRSRQsE7R4VutAR6kM1as9RdDA2BcnvAwuhWSE1NLGMjVISx_y3djhBqn-/spc/SQ-umqWIcvNKu0KzKdUWyjlb1GgqYW0gyDhIYZFHEkOK244TQU05Mo67w8rN5HUjOzdsrw/vprv/1/go/1/ns/9-Sx5W8HR86v2BX8cj9QTjgW/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565681%2C51987687/dover/11/n/TmtZWRWpAPENNK0jP/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIgIo-Hmvduy4FKX1KvQzonVqeUWRAZLohypyO30QWUglYCIQD2KZ1eTe1eFJFSGQrikfBbR2672nZyFdlWDTxgUF-57A%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Kannada" tvg-logo="https://d2jo35ozacw6sq.cloudfront.net/wp-content/themes/tv9kannada/images/Tv9-Kannada-57x57.png" tvg-id="", TV9 Kannada
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1781793069/ei/zawzavHgBuTS3LUPg6Tf4QY/ip/2406%3A7400%3A106%3A6938%3A4a0%3Af7b6%3A4248%3Af541/id/W9xJnPC77cQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/ARmQxEX_1u9YJP5U7XRUCBSD8vs8TLN06KmqmB3xEzq4TesBIDRacrZP8PyWuLxWvyZTdl4Zrc4290Pj/spc/SQ-umrwgIwd6JUMtSB2f-EPxeYaoB7CxBORLiEpvgjKdQAHEenAgM6Iox3ybIrFum3ZdmA/vprv/1/go/1/ns/nWKjfsmR4jbImAlLJXYhSCQV/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565682%2C51987687/dover/11/n/wwiOuWplCTteO0DGY/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRgIhANXSyxIi4HfPupdGN4NDNfdRV2PtPsGzlRPYzHf_LYK1AiEAzvYV1AmM-Zc5O7FsGlK5qp8su6q9RJKhdl88QbHrwIo%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Kannada" tvg-logo="" tvg-id="", NewsFirst Kannada
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1781793070/ei/zqwzasrrAoLc3LUP6Z7RmQQ/ip/2406%3A7400%3A106%3A6938%3A4a0%3Af7b6%3A4248%3Af541/id/jJr3KAGyxR4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51828967/txs/51828967%2C51828968/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/ARmQxEWuyVywr_XLWbtd0FiMGrO5DNznxzZIGktR8bdczY93k20AChXaK8xydHYSZerFveh9_XRBndOk/spc/SQ-umvX-2sOLdT2p1qA7fHW8Iq0T6CTstFn1ZQupaEIZqUT9EyI5Fk78AbsDgkWybB59cA/vprv/1/go/1/ns/tV-vmmh4GGZlZeU84-o0KRcV/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565681%2C51987687/dover/11/n/6_thN-PTAB_O9OAkG/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRgIhAICquaJf41RqRKCzjREjSPo4DJKbVFeU0k7FlsR_DXp2AiEArWdUdPKQrevITWCnl7TiEggEyM76a89P-wIsRgL3y0I%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Gujarati" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR8E478gf4F3e11eXaV1Th88zd2m4OEOp77VpnE1A=s88-c-k-c0x00ffffff-no-rj" tvg-id="", TV9 Gujarati
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Gujarati" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnir1JsG9lCOwHEgKGyy2nY-Q3JzxYfiud5rNfsmTw=s88-c-k-c0x00ffffff-no-rj" tvg-id="", ABP Asmita
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1781793075/ei/06wzaseAFYKassUPt-uP8Qg/ip/2406%3A7400%3A106%3A6938%3A4a0%3Af7b6%3A4248%3Af541/id/VqOJBXXgOZE.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/ARmQxEXBDF9Gt7VC7f3TB4egojDeltwZdxUhgI-8kfYZgcHxKN8rwCK_WhS0un07uDNdfZRMnFsika7B/spc/SQ-umjAt9F1FeCwasRQulwMfVK0p7C_SzxcgWKjq0UbQrtWDQtCxpaZeEjyg85xK9pbIWg/vprv/1/go/1/ns/fvUJxYufZmfMUKH0qu9qE-oW/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565681%2C51987687/dover/11/n/iTz6nj3pEWW2Xj6u7/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIgG9TDikZ4Re-DDiiIERZq3yil6awpyXRV0GE8jZsRLkkCIQD6PeKK7p8rHjaAtPN3k_lpciIWC1ZRt5H9FR7x777z2A%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", Roland Martin Unfiltered
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1781793075/ei/06wzapfIMbrvssUPqe-T-Qc/ip/2406%3A7400%3A106%3A6938%3A4a0%3Af7b6%3A4248%3Af541/id/DyjcGGWMNr8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/ARmQxEVJohuCeUfPz9Q4LPbYEFPNtQWUjBlNxORiYBzKBLmoSvQ6EsTn-Vd6FNOYKE9TC00RBhhImeko/spc/SQ-umnYOSoHquAARziV_c9FPjw169p8NNI-NQfgziYg03NaVPaA0yX8Q1ZH1SOv6ZVZsgw/vprv/1/go/1/ns/o4yICdPJtXdvPcDO91FQiT4W/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565682%2C51987687/dover/11/n/ATLQa2eSmMsiyAfab/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRgIhAOxrijwynfOBOwVC9d0zAakePB386eJ0GvKwXEOgc9DlAiEA-b0sI1cV2SWuCFKVh5kvWICRcpGqnic_3YmyXf6mkQA%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", Sky News
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -132,10 +120,10 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngYsY0-vY4E8BQ1SvfkhzJKhSQGazUVCU6Li8saGw=s900-c-k-c0x00ffffff-no-rj" tvg-id="", Reporter
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1781793079/ei/16wzav_oHtHUg8UP17va-Q0/ip/2406%3A7400%3A106%3A6938%3A4a0%3Af7b6%3A4248%3Af541/id/nObUcHKZEGY.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/ARmQxEVDrhZcrdLveW0Qx_NSRJlV8a2K4TZzzK1wdZ6lBeepYv-AasKS5p0fQaCoCxyl5HCATA2c64ll/spc/SQ-umswFZgFfIDC03mT2fT7qQfwoyH6tNP6LHfBzfzJOB7pgetySW-nEwYRaBRYPPQNbXA/vprv/1/go/1/ns/9FOmjI3W-pP_GrmpHxd8Lw0W/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565681%2C51987687/dover/11/n/G-XBiIHY6tQQF_IFU/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgRSubU4NTZhZVKUWeOdkRDYYs9cYyTYZ8Pcw3o4aeG7YCIEqbjz7kO1ReKMKLMQnKx-QsqNqprUhHCytvTOIeZNyN/file/index.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Janam_TV_logo.png/220px-Janam_TV_logo.png" tvg-id="", Janam TV
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1781793080/ei/2KwzarSjINnBssUPnNecaQ/ip/2406%3A7400%3A106%3A6938%3A4a0%3Af7b6%3A4248%3Af541/id/p23ImwEZkTI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/ARmQxEVFdETIxBqixd4v7Yv6zK_DEGG091w32KTXSbpF-KfotChzms4tB-ICIFjNd3uoI6L6JyTNfp-q/spc/SQ-umliBf-n1kTBPWoT9AcFSVOf53ZgC-MeOCuwWthdd3cq1357lXBTUgoZ69LTcETOHnQ/vprv/1/go/1/ns/n4kzkglpbu2-giyOimbveisW/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565682%2C51946837%2C51987687/dover/11/n/0A45nSlMUE0UqWSbj/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgeBT5afThFjtKDCr0At1yhKXBLbZRTioBMJ5rjQ3RTqwCIF-3pcQNeykiLCKQUyOAHr4KU_IvnCA5uvt-brY9XzPL/file/index.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Jaihind_TV_Logo.jpg/200px-Jaihind_TV_Logo.jpg" tvg-id="", Jai Hind
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -183,10 +171,10 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="" tvg-id="", Bhakthi TV
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1781793106/ei/8qwzauO0B_yq77APpIGdgAc/ip/2406%3A7400%3A106%3A6938%3A4a0%3Af7b6%3A4248%3Af541/id/d0dB3kSCMmM.11/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/ARmQxEVfLuBBf0YVr4Ii4cuUzIH65-X-sleOIQLOkzKg6ONharXF4T56ugTGXxCO3sjxWnRTbuPOsQEF/spc/SQ-umkVlyTR6TQlKdLGKKyMvgZ31iOEKsCY600xK-6HndWXdQE8kipMOK8eItQ3FNZIBog/vprv/1/go/1/ns/Lj8A_JyeFDE1ivpkrYrgUHAW/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565681%2C51987687/dover/11/n/V0EDk98cU9yumGrpq/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgTmlE4qH2SiB0_gn9gSi3WiEe5FIduXprraA4owhMj8oCIDi709cxBj2QQtmSVgRZTIW_gt8UxscZ2w1NjGNqvQ00/file/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="" tvg-id="", Best Shuffle Dance Music 2021
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1781793107/ei/86wzauPOBMTNssUPsoqckQ0/ip/2406%3A7400%3A106%3A6938%3A4a0%3Af7b6%3A4248%3Af541/id/qWf-FPFmVw0.7/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/ARmQxEU8oLWceTkteEM21H7028S56drnwUWdImBHqfqlf1BfTQWGLwM8exHJyQs5T3a5MymQ0_FdO4Kv/spc/SQ-umhJdrfua-EDnzInb6T2klnYxVvEJw4zif4cpSe3wHi5xTuRtR2FSvc-d7S9mLLaZpA/vprv/1/go/1/ns/oNGDw3fzC1TxheZ_YejPQh4W/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565681%2C51987687/dover/11/n/q5ere5erWLP7mytd8/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgYNXN_6wDZf7IZAId2ciVR_ZJbpbIgCxwJqwWFmrpUwMCIAGCrPgIDkOonxz9HnmcQd9UOfs-TixtKH4eCB2TA4kr/file/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", NDTV Profit
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -195,7 +183,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", NDTV India
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1781793110/ei/9qwzat6_HamO4-EPoYr7sAg/ip/2406%3A7400%3A106%3A6938%3A4a0%3Af7b6%3A4248%3Af541/id/MN8p-Vrn6G0.8/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/ARmQxEUAyGUTft4tTKPno4AEXfebyocpkB2rTSeKINhfSIZ9fuG0LpnzjJQIlkQbHOaaiuQT0IcTVnrk/spc/SQ-umnmHgxxTWxSF9ZwDCuQFAS6v5_NP_1vTq4orVc3h8B99nORx5AFzVxsWmie3ngjBgg/vprv/1/go/1/ns/siQ147ZBBuP01i1JEjVTqPcW/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565681%2C51987687/dover/11/n/Hm76x9IZChtkmPpBF/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIgAf2vSOuZsSfXyZ6bZepohenfMDbyyZZckH8IoVNTEfwCIQCasoMSuuUdI1H0TL_1FU5A67hsuppyBcSqeDI-D7Jitw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", IndiaTV
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -240,7 +228,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Radio" tvg-logo="http://vignette4.wikia.nocookie.net/justdance/images/0/0c/Logo-jdtcm1924788.png" tvg-id="", Best Suffle Dance
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1781793128/ei/CK0zapvsLp6i9fwPp8aHoAw/ip/2406%3A7400%3A106%3A6938%3A4a0%3Af7b6%3A4248%3Af541/id/qWf-FPFmVw0.7/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51929568/txs/51929566%2C51929567%2C51929568/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/ARmQxEWLvCUVyDavUDA7OZsdQ8yxKUC1Gdnif79J1Ui8_D_M5G-6heRBuAYp-2-IzHvPauJufm8decyz/spc/SQ-umpPKHfSHZrbF4lrmdibsKNdc3z5iIaCI60dFRTkg_NWxIbhdHIeLRd3LImdpiUfmzA/vprv/1/go/1/ns/o1maOXzp7W0S99Cu-TRzaGsW/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565682%2C51987687/dover/11/n/mRbUUqvRKkzZiSdQq/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgZW-tagSPQFObDPxTB0UTQy6wvDqfUbfCUvONRi711mYCIGnw64SDWAjS80a6ma9H5xYr9iQNvdXfmwnY6f_eNgtQ/file/index.m3u8
 
 #EXTINF:-1 group-title="Radio" tvg-logo="https://freepngimg.com/thumb/meditation/7-2-meditation-transparent.png" tvg-id="", Meditation Music
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -261,7 +249,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", Chillout Lounge - Calm & Relaxing Background Music
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1781793135/ei/D60zaq_9Asr2z7sPteHW4Qk/ip/2406%3A7400%3A106%3A6938%3A4a0%3Af7b6%3A4248%3Af541/id/9UMxZofMNbA.9/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51828967/txs/51828967%2C51828968/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/ARmQxEW6dBQBdl7oLqt3arXOTZEbhZ_7y_4sUhJMSpSG8UceqI56XqAvKn3aoLlBngJ3-Mp3ldPTApDL/spc/SQ-ums1DAsQp7OEWAs6P87rWEO6hGVWl_7EEmX8pOZ9t5K_38QU7ngWF4CatmREQgcRW3A/vprv/1/go/1/ns/d-9WZdZ98KTNMUpwcznAUSoV/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565682%2C51987687/dover/11/n/JSrJahPE4Hb5lK88Z/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRgIhAPORRpNwYTwWk-UbM0DAPYiUPxeoeevxsW71hzFEaDT1AiEAyzV_0lQ-S_aC6-2f_ViA4v8wNRkLZWxIAnfEuXz0mQ8%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Türk" tvg-logo="" tvg-id="", ATV Canlı Yayını
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -297,40 +285,40 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Philippines" tvg-logo="" tvg-id="", ABS-CBN Entertainment- Kapamilya Online Live
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1781793152/ei/IK0zatnuMpjK3LUPjtmAsQ0/ip/2406%3A7400%3A106%3A6938%3A4a0%3Af7b6%3A4248%3Af541/id/_7jBrOjIgwc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/in/ss/1/ssa/1/bui/ARmQxEUviqEIt44YxSf95EouuuMLFq64jUwO1J-D-1jT-KSV79Vu1Y_p_AJYOg8hICDrM9HkPFpa9_y_/spc/SQ-umkVVNOQgrpVIAw1qI-qxX_DlOq8idwEPNIrK_wZNqUVyRjlbdeNyk0lJApIIY6IiSw/vprv/1/go/1/ns/snRHnmmmyZ4JexSBxBw5liMV/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565682%2C51946837%2C51987687/dover/11/n/aVDsZNCXom-QFLESs/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgJYTMEhdNTOozzxMDGRuzehypciDcU8HYdlWfsF-XgMYCIAon_hHVD3mkPUQ-ZW8NfJMb-glX_5jM_0RusAedL7Hy/file/index.m3u8
 
 #EXTINF:-1 group-title="East Africa" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTbE1EchB3HTNxl2sAvcqAJVQQsKP0Q5O33ka5cVw=s176-c-k-c0x00ffffff-no-rj" tvg-id="", CitizenTV Kenya
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1781793153/ei/Ia0zao3LJuKOssUP0_apuQE/ip/2406%3A7400%3A106%3A6938%3A4a0%3Af7b6%3A4248%3Af541/id/eqqeBH5LULo.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51828967/txs/51828967%2C51828968/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/ARmQxEUkxBforbfWGH78PASdiT5W5qCNtjlXuWaaq6dQM-dB0QDdWucAS7Yjd91L93Rr-Pk2bC-yLmsu/spc/SQ-uml5YAjQ3-0McFhNhODvLIzCaJ42xDzrs_erpsuaEwcW3GFMbAXFh94zq9l4Ua2W1lw/vprv/1/go/1/ns/WXQvPzrlgRXyBkfB7UwnTokW/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565681%2C51987687/dover/11/n/Fd6r6w58sFqDirUNB/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgPetAJr5HHVy4Pkl_0h5FX5Izv8aS_v2F82pPotQ6zRUCIEq3K1-f_H-6CnNEf4vmox4PGLnCMP_JVJMtMOivttm9/file/index.m3u8
 
 #EXTINF:-1 group-title="East Africa" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTgGwEvJmbMQ8tdTPh3MMOn4TzBOorTAEAaSipHV8w=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="", NTV Uganda UG
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="East Africa" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTG_qnW-VSIBNXd1LJRD3Ud6bYSERVFJ4GBlO0U=s176-c-k-c0x00ffffff-no-rj" tvg-id="", NTV Kenya Kenya
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1781793156/ei/JK0zauivFPmL3LUP7pqcyAs/ip/2406%3A7400%3A106%3A6938%3A4a0%3Af7b6%3A4248%3Af541/id/ZRDj5GXNezw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/ARmQxEVb88C-CbgVn7s95eZ6xvQyaZId7HKqBgmEvE6jc0_GdHeU5wk7JYThZWBEi-45Bda7kqU8KGeg/spc/SQ-umu3kqte3B4xidmdc7-TC_v3celr5lq8D_VzfjrkYR3YSTOgCGrjmRpbpJ1KyYNAsNQ/vprv/1/go/1/ns/ECmLElLMGGdKFaloH8fFCZ0V/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565681%2C51987687/dover/11/n/rNy_VaTyoPud8mB/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIgGTkXQ8mgX_aLsouwHa4uIp0eeiR6BqOJERWolMqUh4ECIQCGcIcwuRm2Eo0DMnK6ltbfkRh66kAlOIsHFTi1bICYHw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="East Africa" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQkcR_PzChnpoy_CFEHOhBJoWYzJPUOryL2McEGBSQ=s176-c-k-c0x00ffffff-no-rj" tvg-id="", KTN News Kenya
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1781793157/ei/Ja0zasCZD662juMPzNq3-AI/ip/2406%3A7400%3A106%3A6938%3A4a0%3Af7b6%3A4248%3Af541/id/ehHSJQ_IZ_w.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/ARmQxEWPm2BwyPklZi-EN3TjVNoWinlj5phvEF30BxxqfnmEtfuhyHXO0ypLho4dAbPQ-j3xq3wIX9Dr/spc/SQ-umkvJ9cKx42C3Y0r_zu1ep0ZhoJnLb3DPmdSsBj3gmPwG2ldOiiygm0lq_T2nHBifOw/vprv/1/go/1/ns/TRSVzPia8N7R1WMkazyrSJsW/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565681%2C51987687/dover/11/n/XC0gGgsVciVtON8Iu/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIgMthK6YM9o_XZymV_YoXO-XzlJJa-1Io9AxYJFaJRUmQCIQC-IA_J41WLP-70Kg1GjqNCFPGJEkN42g2Xl8HxgtyR6Q%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="East Africa" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR1vkUESExM9jHkADW6pCdw0LQWXULl6vLV-4OR=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Azam TV Tanzania
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="International News" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSGYwgujx1VgMYEpdurTfh8NRmOehOXf16DeMKoDfw=s176-c-k-c0x00ffffff-no-rj" tvg-id="", DW News
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1781793158/ei/Jq0zaqfMN5_u9fwPvY-eoQ8/ip/2406%3A7400%3A106%3A6938%3A4a0%3Af7b6%3A4248%3Af541/id/LuKwFajn37U.96/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/ARmQxEVbjWo2z-gJX7cwMkWKr8MWEvlmH9s5qAsCZVpS-GgZQFlN6zoSpke-GLm6LLrwCFddDTXN0m6E/spc/SQ-umvkT0Z11RMuYJ98BkZuZanIYLckW_0vgFl1b5CNPjg-WzendMbUw377OP0QnBWZmKw/vprv/1/go/1/ns/D28IwdIfxCz96iMUscjp1mkW/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565681%2C51987687/dover/11/n/Tdo8gMRgQA8x7D3sK/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRgIhANDpKqC0Zqjcu2OQV_i1vV24j3wl7cxzCQYFrMZtE9HxAiEAiEUsRNXf25PZO_3y0WpzEDOZz1SlCo5bFQc6NiLlMBM%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="International News" tvg-logo="https://yt3.ggpht.com/E96qzkAoX81DQs7wqRHR4rNk1esa4quBPzda2QRzImlhoHOVgRdAN8o-S0Rb_hpygo_n4LdhwTE=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Sky News
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1781793160/ei/J60zau-DPaSo9fwPnKqtsAQ/ip/2406%3A7400%3A106%3A6938%3A4a0%3Af7b6%3A4248%3Af541/id/5Tiq5a3Zsto.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/ARmQxEW8k4Stom2WBitJEDxC4HvhOh3pvQzh5zWKyHQqrSXdNrfbOOiYdIuzSCiwFEZt4NYnPDS-eIm9/spc/SQ-umiHeE48VpNZRJw9PpRgLcYabElxnAbvLnptpXdUweSlem2HeKDSyGHRctkan2WaU2w/vprv/1/go/1/ns/VGL2FDwSwBuBdD525oP0jWEW/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565681%2C51987687/dover/11/n/pywjcWxVltt-pcg/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIgSXfxuXPuiY1lsr-r8eXIyBhh3MET2YkoUED22T5gg2MCIQDR6lX6dxFdpLrmgvzhJojFnESB-yB-sL5g0lxuUw6yZQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="International News" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTmW20Du3RIn5YTCud3cZUaCWDkh_XdJ3fNKf_r=s176-c-k-c0x00ffffff-no-rj" tvg-id="", GBNews
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1781793161/ei/Ka0zarWEA4DS3LUP4qq0KA/ip/2406%3A7400%3A106%3A6938%3A4a0%3Af7b6%3A4248%3Af541/id/6kRInLQ_vfI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/ARmQxEXLHu8ykwGUrPYPEKV1mVgqNVr583kSUWvKT28v_F3lr_p7SxST-D61fodEWzw8G648JQ89KmzO/spc/SQ-umnG3JewP_lKKeq01-24zYjR2Wd7DGSo8eKmxPmFBVHqiJYNIAGOEV4RSuG5zrqyc2Q/vprv/1/go/1/ns/CrB6wa5iq0g_m1yCmaFkBDwV/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565682%2C51987687/dover/11/n/6qvULSoEYNPzfBbnc/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgPctTw-50nFIJ698QzLqqJBZGA9kqNWI5fhW5oLjYB8kCIGFd1aYxuF0gsNh3T85jyViaUvk1cvkNhtNXG819WgAJ/file/index.m3u8
 
 #EXTINF:-1 group-title="International News" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQuzkdeUxIhS3KWZrYcDf4F8k2VC6SHZt2HlyzCM_c=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Al Jazeera English
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1781793162/ei/Ka0zatr4O8qr9fwP4fby0As/ip/2406%3A7400%3A106%3A6938%3A4a0%3Af7b6%3A4248%3Af541/id/gCNeDWCI0vo.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/in/bui/ARmQxEU_HXD1VLjRGi-OtjyjntItaVqvGBJp7hojGvPBtTIXCfYMUsJmdG5zyFenY_Gu7YpHVua3jxor/spc/SQ-umikWCJgnSt1ayd935Vi6VP-ZCpNxz7iGwcNZBLFdjG3ie7ZqiOaUIz6jPBsU4xecWg/vprv/1/go/1/ns/6xdZq7OAkg4tbKtMX0mCjwMW/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565682%2C51987687/dover/11/n/0ANAgtCzKkPFHaJ-8/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRgIhAOaLcY81-20CiPALHmdbKpND4C8jbYf-9cej7V8vRUbJAiEAslnvTQg5hhlHkgZQ6DJPVV-vAKQOGqlLV95HD9_0kVE%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Radio" tvg-logo="" tvg-id="", Art of Melodic Techno & House Radio
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Radio" tvg-logo="" tvg-id="", Anjunadeep Radio - Deep House, Chill, House, Progressive
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1781793164/ei/LK0zauf7MLfFjuMPgtWD8Ac/ip/2406%3A7400%3A106%3A6938%3A4a0%3Af7b6%3A4248%3Af541/id/D4MdHQOILdw.7/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/ARmQxEXVSK3X6iiZKkqUwAn2Eerp49d-nsAR6_POjO5mZVrrP-wVIpoShcTuhHkEquE0e1Qbuhj8UPbJ/spc/SQ-umokCodyeMtxEaDd2AsbjHp66g_y8Sd9lM5WpoPvKxDr_VFqPnDgJ-32lOakU41VE0w/vprv/1/go/1/ns/s4FQiDAmbIwVxbQevS5YsjcW/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565682%2C51987687/dover/11/n/C768uFFYLbBgiwq/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIhAK2XO7pXeppkAGtXiE2v-8jbedGNEZGnhZ0rGqr1bBjXAiBsiFZtcm2DxkeU4IrhK2sKZa3tW5VDC6UXkxm9i0Bm_Q%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Radio" tvg-logo="" tvg-id="", Anjunadeep Radio - Trance and Progressive
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -384,232 +372,3 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", Queen Club - SUMMER MIX 2021 ↠ DUBAI, HAWAII, THAILAND, MYKONOS, ISLANDS, :palm_tree: Feeling Me
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", Café del Mar Chill House Radio (Deep House · Organic House · Nu Disco)
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", HQ - Bass Music :speaker:CAR BASS MUSIC 2021 :fire: BEST EDM, BOUNCE, ELECTRO HOUSE 2021
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", A State Of Trance Radio @A State Of Trance
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", SunMusic - NEW PARTY MIX 2021 :boom:TOMORROWLAND 2021
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", SunMusic - :boom:TOMORROWLAND 2021
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", Tomorrowland - One World Radio
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", N&T Party - HOT EDM Party Dance Club Remix 2021 ♫ Best Shuffle Dance Music Video ♫ New Shuffle Dance 2021
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", N&T Party - Party Dance Club Remix 2021 ♫ Best Shuffle Dance Party Video Mix ♫ New EDM Dance Charts Songs
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", Late Night Lounge - Chillout House Background Music - Study, Work, Deep Focus, Relax, Car Music
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", ChillYourMind - Chillout Music, Summer Music, Chill House, Deep House, Summer Mix 2021
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", France24
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Webcams" tvg-logo="" tvg-id="", Wetter-Panorama – 24/7 LIVE Stream Webcams Österreich
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", France24 (French)
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", RT France
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", Franceinfo
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", France Inter (video feed of the radio channel)
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", Oddbods
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", Mother goose club
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", Peppa Pig
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", Little Baby Bum Nursery Rhymes & Kids Songs
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", News24
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", Tez Live
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", Zee Business
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", CNBC Awaaz
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Devotional" tvg-logo="" tvg-id="", Live Darshan - Shree Somnath Temple, First Jyotirlinga
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Devotional" tvg-logo="" tvg-id="", Shree KasthBhanjandev Hanumanji Mandir Salangpur
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Devotional" tvg-logo="" tvg-id="", Shree Siddhivinayak Temple Live
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Devotional" tvg-logo="" tvg-id="", Shree Mahakaleshwar Mandir Live Stream
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Devotional" tvg-logo="" tvg-id="", Bhuj Mandir NarNarayan Dev Darshan
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Devotional" tvg-logo="" tvg-id="", Shree Dwarkadhish Temple Dwarka
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Devotional" tvg-logo="" tvg-id="", Live Darshan From Sri Naga Sai Mandir
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", TV9 Bharatvarsh
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", Republic Bharat
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", ABP NEWS
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", Bharat Samachar
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Pakistan" tvg-logo="https://w7.pngwing.com/pngs/660/764/png-transparent-geo-logo-pakistan-geo-tv-geo-news-television-channel-ten-miscellaneous-television-blue.png" tvg-id="", Geo News
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Pakistan" tvg-logo="https://w7.pngwing.com/pngs/178/61/png-transparent-ary-news-pakistan-electronic-media-regulatory-authority-breaking-news-news-live-text-rectangle-logo-thumbnail.png" tvg-id="", ARY News
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Pakistan" tvg-logo="https://www.darsaal.com/media/tv/2017/11/_1/200x200/pic_1511540954.png" tvg-id="", SAMMA News
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Pakistan" tvg-logo="https://www.darsaal.com/media/tv/2017/11/_1/200x200/pic_1511541300.png" tvg-id="", Dawn News
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Pakistan" tvg-logo="https://www.darsaal.com/media/tv/2017/11/_1/200x200/pic_1511540898.png" tvg-id="", 92 HD News
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Pakistan" tvg-logo="https://www.darsaal.com/media/tv/2018/05/_1/200x200/pic_1527785751.png" tvg-id="", HUM News
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Pakistan" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/GNN_News_logo.png" tvg-id="", GNN News
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Pakistan" tvg-logo="https://www.darsaal.com/media/tv/2018/08/_1/200x200/pic_1533839822.png" tvg-id="", Public News
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Pakistan" tvg-logo="https://www.darsaal.com/media/tv/2017/11/_1/200x200/pic_1511540857.png" tvg-id="", 24 News
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Pakistan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Dunya_News_Logo.svg/1200px-Dunya_News_Logo.svg.png" tvg-id="", Dunya News
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Pakistan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/BOL_News_logo.png" tvg-id="", BOL News
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", TVBS News
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", Taiwan TTV News
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", SET Live News
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", Taiwan CTV News
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", Taiwan Formosa Live News
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", Taiwan EBC
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", Taiwan EBC Financial
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", CTITV Taiwan News
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Odisha" tvg-logo="" tvg-id="", OTV 24x7
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Odisha" tvg-logo="" tvg-id="", News 18 Odia
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", Bossa Nova Covers Popular Songs
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", Beautiful Relaxing Music, Peaceful Soothing Instrumental Music, "Tropical Birds" By Tim Janis
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", Beautiful Relaxing Music Combined With Beautiful 4K Quality • Relax, Sleep, Meditation, Study, Yoga
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", 4K Video (Ultra HD) Unbelievable Beauty - Amazing Nature Scenery with Beautiful Relaxing Music
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="" tvg-id="", Kitten Academy Livestream
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Malaysia" tvg-logo="" tvg-id="", Bernama TV
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Lofi" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhGIymQGp3jRMECbTCBSRAUqi8sKbATpWowQG44CA=s48-c-k-c0x00ffffff-no-rj" tvg-id="", LOFI MUSIC LIVE 24/7
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", WB Kids live
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", DC Kids live
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Webcam" tvg-logo="" tvg-id="", Elysium Resort & Spa Live
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", Makkah Live
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", MUSICOLABORASI
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Marathi" tvg-logo="https://pbs.twimg.com/profile_images/1369214431268200453/JIj9kAeK_400x400.jpg" tvg-id="", Jai Maharashtra
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Marathi" tvg-logo="" tvg-id="", Zee 24 Taas
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Marathi" tvg-logo="" tvg-id="", TV9 Marathi
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Marathi" tvg-logo="" tvg-id="", News18 Lokmat
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Marathi" tvg-logo="" tvg-id="", ABP MAZHA
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Marathi" tvg-logo="" tvg-id="", Saam TV
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Marathi" tvg-logo="" tvg-id="", Lokshahi News
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Marathi" tvg-logo="" tvg-id="", ZoomOn News
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u

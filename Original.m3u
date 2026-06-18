@@ -1,0 +1,235 @@
+#EXTINF:10 tvg-id="Flix.in" tvg-name="FOX News Now" tvg-country="IN" tvg-language="English" tvg-logo="https://static.epg.best/in/AndFlix.in.png" tvg-url="" group-title="News",FOX News Now
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FoxNewsNow.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/hc5a1YP.png" group-title="News",FOX News Now
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:10 tvg-id="CNNInternational.us" tvg-name="CNN International" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" tvg-url="" group-title="News",CNN International
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News",BBC World News
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+
+#EXTINF:-1 tvg-id="Newsy.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/eEqyFBX.jpg" group-title="News",Newsy
+https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
+
+
+#EXTINF:-1 tvg-id="RudawTV.iq" tvg-country="IQ" tvg-language="Kurdish" tvg-logo="https://i.imgur.com/5ZQ4GTu.jpg" group-title="News",Rudaw TV
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TheFirst.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fc953ab6426646dbd7347b4" group-title="News",The First
+https://dai.google.com/linear/hls/event/nX39-giHRPuKQiVAhua0Kg/master.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="AmritaTV.in" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/xxWaGyn.jpg" group-title="Entertainment",Amrita TV
+http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
+#EXTINF:-1 tvg-id="AnandTV.uk" tvg-country="UK" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/QMPfzzt.png" group-title="General",Anand TV
+https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
+
+#EXTINF:-1 tvg-id="OneTv.in" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/ssMOeaj.png" group-title="Entertainment",One TV
+http://137.59.86.218:1935/live/onetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DarshanaTV.in" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/darshana-tv-channel-logo-300x300.jpg" group-title="Entertainment",Darshana TV 
+https://live.neestream.net/neestream_01/darshanatv/tracks-v1a1/mono.m3u8
+#EXTINF: 0 tvg-id="DDMalayalam.in" tvg-name="DD Malayalam" tvg-country="IN" tvg-language="Malayalam" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/dd_malayalam-1.png" tvg-url="" group-title="Entertainment",DD Malayalam
+http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8
+
+#EXTINF:-1 tvg-id="DreamTV.in" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/VdcG0i6.png" group-title="Entertainment",Dream TV |
+https://cloudflare-cdn301.ottpro.in/dream_media/reedeem/playlist.m3u8
+#EXTINF:-1 tvg-id="DreamzTV.in" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/yXHmKtT.png" group-title="Entertainment",Dreamz TV
+http://198.144.149.82:8080/NOTV/DREAMHD/index.m3u8?token=GTR
+#EXTINF:-1 tvg-id="FlowersTV.in" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/ilvwIyG.png" group-title="Entertainment",Flowers TV 
+http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
+#EXTINF:-1 tvg-id="GarshomTV.uk" tvg-country="UK" tvg-language="Malayalam" tvg-logo="" group-title="Undefined",Garshom TV
+http://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="JeevanTV.in" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/PYs1W1Y.png" group-title="Entertainment",Jeevan TV
+http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/index.m3u8
+
+
+#EXTINF:-1 tvg-id="KairaliWe.in" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/Z626hKz.jpg" group-title="Entertainment",Kairali We
+http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8
+#EXTINF:-1 tvg-id="KannurOne.in" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/hytRL90.png" group-title="Entertainment",Kannur One 
+https://bnwdplewrp3a-hls-live.wmncdn.net/kannur1/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KappaTV.in" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/MkfPo1V.jpg" group-title="Lifestyle",Kappa TV
+http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
+
+#EXTINF:-1 tvg-id="KCLTV.in" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/bkp9dIm.png" group-title="Entertainment",KCL TV 
+http://kcltv.livebox.co.in/kclhls/live.m3u8
+
+
+#EXTINF:-1 tvg-id="KCVMovies.in" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/NY94lnZ.png" group-title="Movies",KCV Movies
+http://198.144.149.82:8080/NOTV/KCVMOVIE/index.m3u8?token=GTR
+
+
+
+#EXTINF:-1 tvg-id="Magnavision.uk" tvg-country="UK" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/yRdGchJ.jpg" group-title="Entertainment",Magna Vision
+https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6a#EXTINF:-1 tvg-id="Newsy.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/eEqyFBX.jpg" group-title="News",Newsy (1080p)
+https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8d9cdf922473177a4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MalabarNews.in" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/yJWfyfM.png" group-title="News",Malabar News |
+http://cloud.logicwebs.in:1935/live/malabarnews/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MalabarVision.in" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/ZNbdouM.jpg" group-title="News",Malabar Vision
+http://cdn1.logicwebs.in:1935/malabar/malabar/playlist.m3u8
+#EXTINF:-1 tvg-id="MalppuramChannel.in" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/X2aZBiz.png" group-title="News",Malappuram Channel |
+http://103.78.18.137:1935/live/mlpchannel/chunklist.m3u8
+#EXTINF:-1 tvg-id="Mangalam.in" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/V5nQl9m.png" group-title="News",Mangalam
+http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="PulariTV.in" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/v5urG30.png" group-title="Undefined",Pulari TV |
+https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8
+#EXTINF:-1 tvg-id="RealNewsKerala.in" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/EmBpOWM.png" group-title="News",Real News Kerala
+https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="SafariTV.in" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/LOepeP3.jpg" group-title="Travel",Safari TV
+https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ShekinahTV.in" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/6hTshsG.png" group-title="Devotional",Shekinah TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCHtYUfPnQci6GoUpPlWfrOg/live
+#EXTINF:-1 tvg-id="Swantham.in" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/oodBB6x.png" group-title="Entertainment",Swantham |
+http://131.153.22.8:1935/SWANTHAM/live/playlist.m3u8
+#EXTINF:-1 tvg-id="TimeVisionNews.in" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/YSQVbIm.png" group-title="News",Time Vision News |
+http://cloud.logicwebs.in:1935/timevision/timevision/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UBLHD.in" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/pt7gl1T.png" group-title="Music ",UBL HD 
+https://cdn.logicwebs.in/hls/ublhdkey.m3u8
+#EXTINF:-1 tvg-id="Yolo.in" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/kzudV52.jpg" group-title="Entertainment",Yolo
+http://cdn.logicwebs.in/hls/yolo.m3u8
+
+#EXTINF:-1 tvg-id="Rosebowl.in" tvg-name="Rosebowl" tvg-country="IN" tvg-language="Malayalam" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/rosebowl.png" tvg-url="" group-title="",Rosebowl
+https://acv.asianetmobiletvplus.com/webstreams/ef22daf97d61acb4bf52376c4105ad02.smil/playlist.m3u8
+
+#EXTINF:3 tvg-id="ACNCinema.in" tvg-name="ACN Cinema" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/pAUaqdd.jpeg" tvg-url="" group-title="Movies",ACN Cinema
+http://ammacable.com:1935/acn/acncinema/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MKTunes.in" tvg-name="MK Tunes" tvg-country="IN" tvg-language="Tamil" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/MK_TUNES.png" tvg-url="" group-title="",MK Tunes
+http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
+
+
+
+#EXTINF:2 tvg-id="7S Music" tvg-name="7S Music" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/mitUG1j.jpg" tvg-url="" group-title="Entertainment",7S Music
+http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
+
+#EXTINF:2 tvg-id="ACNMusic.in" tvg-name="ACN Music" tvg-country="IN" tvg-language="Tamil" tvg-logo="" tvg-url="" group-title="Music",ACN Music
+http://ammacable.com:1935/acn/acnmusic/playlist.m3u8
+
+#EXTINF:2 tvg-id="7X Music" tvg-name="7X Music" tvg-country="IN" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/kairali_in.png" tvg-url="" group-title="Entertainment",7X Music
+http://skystar.livebox.co.in/7xtvChannelhls/7xtv7973090372.m3u8
+
+#EXTINF:4 tvg-id="MTV Biggest Pop" tvg-name="MTV Biggest Pop" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/X63rCqD.png" tvg-url="" group-title="Music",MTV Biggest Pop
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+
+#EXTINF:4 tvg-id="" tvg-name="1 Mus" tvg-country="" tvg-language="English" tvg-logo="https://i.imgur.com/PozF9MT.png" tvg-url="" group-title="Music",1 Mus
+http://hz1.teleport.cc/HLS/HD.m3u8
+
+#EXTINF:4 tvg-id="" tvg-name="VH1" tvg-country="" tvg-language="Italian" tvg-logo="" tvg-url="" group-title="",VH1
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8?ct=c&expand=simulcast_standard&exp=1529767847&rn=-811303751&cid=36953f5b6546464590d2fcd954bc89cf&tc=1&sig=
+
+#EXTINF:-1 tvg-id="1HDMusicTV.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/51763/2a0000016007770e2d7dbe4c6cac6fa01262/214x121" group-title="Music",1HD Music Television
+
+#EXTINF:-1 tvg-id="FOLXMusic.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/R9f5Fmx.png" group-title="Music",FOLX Music
+https://serve-first.folxplay.tv/folx/ch-4/master.m3u8
+
+#EXTINF:-1 tvg-id="GORTV.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/zAFt893.png" group-title="Music",GO-RTV
+http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MBCFM.ae" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/radio/mm/mbc_ae_fm.png" group-title="Music",MBC FM
+https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
+
+#EXTINF:-1 tvg-id="SaltoBrasaMusic.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.vimeocdn.com/portrait/31947989_640x640" group-title="Music",Salto Brasa Music
+https://salto-streams.nl/hls/sotv1_high.m3u8
+
+#EXTINF:-1 tvg-id="SanaPlus.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/cA7PpJG.jpg" group-title="Music",Sana Plus
+http://media.7starcloud.com:1935/live/sanatv2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="V2BEAT.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://graph.facebook.com/vtwobeat/picture?width=320&height=320" group-title="Music",V2BEAT
+https://abr.de1se01.v2beat.live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VIVARussia.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/VIVA_2011_logo.svg/1280px-VIVA_2011_logo.svg.png" group-title="Music",VIVA Russia
+https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
+
+#EXTINF:-1 tvg-id="Wanasah.ae" tvg-country="ARAB;MAGHREB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/GmgibYW.jpg" group-title="Music",Wanasah
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+
+#EXTINF:-1 tvg-id="Xite.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/VaDrfKr.png" group-title="Music",Xite
+https://xite-samsung-de.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TheCountryNetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://media-uspx.mybtv.net/logos/TCN.png" group-title="Music",The Country Network
+https://dai.google.com/linear/hls/event/3EEsfZhASryigfuSpHdfKg/master.m3u8
+
+#EXTINF:-1 tvg-id="ONE1Music.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/fHbHbEH.png" group-title="Music",ONE1 Music
+https://serve-first.folxplay.tv/folx/ch-3/master.m3u8
+#EXTINF:-1 tvg-id="ONE1Slovenija.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/fHbHbEH.png" group-title="Music",ONE1 Slovenija
+https://serve-first.folxplay.tv/folx/ch-6/master.m3u8
+
+#EXTINF:-1 tvg-id="BumblebeeTVPopCornFlixAction.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Ths3dIy.png" group-title="Movies",Bumblebee TV PopCornFlix Action
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Horrify.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/NCbpYa4.png" group-title="Movies",Horrify
+https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
+
+#EXTINF:-1 tvg-id="IFCFilmsPicks.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="Movies",IFC Films Picks
+https://amc-ifc-films-picks-1.imdbtv.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MovieSphere.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjM1Njg1NTFf/MovieSphere_400x400.png" group-title="Movies",MovieSphere
+https://moviesphere-plex.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MyTimemovienetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png" group-title="Movies",MyTime movie network
+https://mytime-roku-ingest.cinedigm.com/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="ParamountMovieChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5cb0cae7a461406ffe3f5213/colorLogoPNG.png" group-title="Movies",Paramount Movie Channel (720p)
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
+
+#EXTINF:-1 tvg-id="RuntimeBrazil.us" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Runtime_120x120.png?raw=true" group-title="Movies",Runtime (Brazil)
+https://runtimebrazil-samsungbrazil.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RushbyAMC.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="Movies",Rush by AMC
+https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8
+
+#EXTINF: 13 tvg-id="MovieKingdom.us" tvg-name="Movie Kingdom" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/pIuJqYk.png" tvg-url="" group-title="Movies",Movie Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+
+#EXTINF:13 tvg-id="AtlantaChannel.us" tvg-name="FOX Crime" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/hSYez3V.png" tvg-url="" group-title="Travel",FOX Crime
+https://cdn1.mobiletv.bg/T10/fox_crime/fox_crime_794613_850k.m3u8
+
+#EXTINF:-1 tvg-id="ETLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5dc0c78281eddb0009a02d5e/colorLogoPNG.png" group-title="Entertainment",ET Live
+https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
+
+#EXTINF:-1 tvg-id="ComedyCentralEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/comedycentral.png" group-title="Comedy",Comedy Central East
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d4947590ba40f75dc29c26b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d4947590ba40f75dc29c26b&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=400&terminate=false&userId=
+
+#EXTINF:-1 tvg-id="AnimaxJapan.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/zpi6mQ3.png" group-title="Animation" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36",Animax Japan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Undefined",EDGEsport (1080p)
+https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HBOAsia.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115" group-title="Undefined",HBO Asia
+https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
+
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UClErHbdZKUnD1NyIUeQWvuQ/live
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Music",MTV
+http://38.127.211.18/live/c2eds/MTV/HLS/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/100x100/foxcable.png" group-title="Undefined",Fox HD Russia
+https://sc.id-tv.kz/FOX_HD.m3u8
+
+
+
+
+
+
+
+
+
