@@ -79,7 +79,7 @@
 # Stream unavailable
 
 #EXTINF:-1 group-title="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1920px-CGTN.svg.png" tvg-id="",CGTN Europe
-# Stream unavailable
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1784177545/ei/KQ9Yar7TAeaX2_gPkpLViAw/ip/52.230.164.49/id/upqTEGIOOU8.1/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hls_chunk_host/rr5---sn-vgqsrnld.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AZFlqhNsg35wSA4Y0UDwgr9z0qd-rAbhVANf-XVbHl80gW7mjckA-w_B76w5mqVYYCQR63ybeRhHzqvp/vprv/1/reg/0/playlist_type/DVR/met/1784155945,/mh/v-/mm/44/mn/sn-vgqsrnld/ms/lva/mv/u/mvi/5/pl/17/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116/mt/1784155592/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,vprv,reg,playlist_type/sig/AE0s2JYwRgIhAK_zd_fuT5looZcBQVJh68bJU8FDc6rYBW9_tnpwvM42AiEA8WG3xyC_qglgsPAY1UXGfh6AoHx96rP9rdh5yfY4sjY%3D/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgYB9Zl3em9Dj25j19sHgHtBAXlcO1-gHZNn-gG-YF8_8CIBvqyjZny5tZlzfQYSbrcEeOThtqDnKPDPNk0avanHbz/playlist/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Republic_TV.svg/800px-Republic_TV.svg.png" tvg-id="",Republic TV
 # Stream unavailable
