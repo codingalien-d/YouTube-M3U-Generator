@@ -49,7 +49,7 @@
 # Stream unavailable
 
 #EXTINF:-1 group-title="English" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniz5-dorFPbRs3b2CYaJSV2VOVxq53EqcwdWOF8Gg=s900-c-k-c0x00ffffff-no-rj" tvg-id="",News 12 New York
-# Stream unavailable
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1785207839/ei/v8dnao6OCYDhlu8PiL7E0Qg/ip/135.232.232.53/id/JEtvLd4B-AY.4/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-vgqsrnld.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AZFlqhOH9s99kSwLywfxr5kY9ZXbkSkEmQxAYOExDUgKIMT6sX3O8zAp4z8kYX-mBWsJRU7PzZVJcRz8/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3468750/met/1785186239,/mh/gw/mm/44/mn/sn-vgqsrnld/ms/lva/mv/m/mvi/3/pl/17/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51992867/mt/1785185795/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,vprv,reg,playlist_type/sig/AE0s2JYwRAIgP8GfrYRLNddD1tTdA0pYhr3HBF29kieTiPSFIBx7p7oCICrdVU40CaRkP4dX3vNeQopKVdBLw8Ofti1HZueeFs5M/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAJ_VNhYHY86aAsjd2R1FYN_Ryp4A6UlLENTqt47b7d6zAiEAzr0E3AIPWJkgAZOq3dSAMNddpTjC5qbM6g44ZS1bJ1o%3D/playlist/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ABC_News_logo_2021.svg/1920px-ABC_News_logo_2021.svg.png" tvg-id="",ABS News
 # Stream unavailable
